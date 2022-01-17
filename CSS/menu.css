@@ -72,7 +72,8 @@ ul.h-menu>li{
     list-style: none;
     float: left;
     width: 80px;
-    margin-left: 150px;
+    color: white;
+    margin-left: 164px;
     margin-top: -10px;
     margin-bottom: 10px;
 }
